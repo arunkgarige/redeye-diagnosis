@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kmodule>
+    <kbase name="dtables" packages="org.phds.dtables">
+        <ksession name="PersonalHealthDiagnosys-RedEye"/>
+    </kbase>
+</kmodule>
